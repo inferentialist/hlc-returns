@@ -12,8 +12,10 @@ The code provided here is intended to reproduce the results in the paper
 on http://www.inferentialist.com.
 
 
-* prep.lcdata.py - A python script to grab and parse the latest data file from Lending Club.
-* rates.R - R scripts to reproduce the table and figure in "On Lending Club 
+* prep.lcdata.py 
+  + A python script to grab and parse the latest data file from Lending Club.
+* rates.R 
+  + R scripts to reproduce the table and figure in "On Lending Club 
 Portfolios"
   
 
